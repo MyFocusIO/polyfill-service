@@ -1,0 +1,30 @@
+{
+	"aliases": [
+		"caniuse:custom-elementsv1"
+	],
+	"browsers": {
+		"chrome": "<58",
+		"firefox": "*",
+		"ie": "*",
+		"ie_mob": "*",
+		"opera": "<45",
+		"op_mini": "*",
+		"safari": "<10.1",
+		"firefox_mob": "*",
+		"android": "<56",
+		"ios_saf": "<10.3",
+		"samsung_mob": "*",
+		"bb": "10 - *"
+	},
+	"dependencies": [
+		
+	],
+	"build": {
+		"minify": false
+	},
+	"license": "BSD",
+	"spec": "https://w3c.github.io/webcomponents/spec/custom/",
+	"docs": "https://developers.google.com/web/fundamentals/getting-started/primers/customelements",
+	"repo": "https://github.com/webcomponents/custom-elements"
+	
+}

@@ -1,0 +1,24 @@
+{
+	"aliases": [
+
+	],
+	"browsers": {
+		"chrome": "*",
+		"firefox": "*",
+		"ie": "*",
+		"ie_mob": "*",
+		"opera": "*",
+		"op_mini": "*",
+		"safari": "*",
+		"firefox_mob": "*",
+		"android": "*",
+		"ios_saf": "*",
+		"samsung_mob": "*",
+		"bb": "10 - *"
+	},
+	"dependencies": [
+		
+	],
+	"license": "BSD",
+	"docs": "https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime"
+}

@@ -1,0 +1,29 @@
+{
+	"aliases": [
+		"default-3.3",
+		"default-3.4",
+		"default-3.5",
+		"default-3.6",
+		"default",
+		"caniuse:requestidlecallback"
+	],
+	"browsers": {
+		"chrome": "<47",
+		"firefox": "<55",
+		"ie": "*",
+		"ie_mob": "*",
+		"opera": "<34",
+		"op_mini": "*",
+		"safari": "*",
+		"firefox_mob": "<55",
+		"android": "<56",
+		"ios_saf": "*",
+		"samsung_mob": "*",
+		"bb": "10 - *"
+	},
+	"dependencies": [
+		
+	],
+	"license": "MIT",
+	"docs": "https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback"
+}
