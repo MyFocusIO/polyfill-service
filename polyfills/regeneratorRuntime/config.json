@@ -3,18 +3,22 @@
 
 	],
 	"browsers": {
-		"chrome": "*",
-		"firefox": "*",
+		"chrome": "* - 54",
+		"firefox": "* - 51",
 		"ie": "*",
 		"ie_mob": "*",
-		"opera": "*",
+		"bb": "*",
+		"edge": "* - 14",
+		"opera": "* - 41",
 		"op_mini": "*",
-		"safari": "*",
+		"safari": "* - 10.0",
 		"firefox_mob": "*",
-		"android": "*",
-		"ios_saf": "*",
-		"samsung_mob": "*",
-		"bb": "10 - *"
+		"android": "* - 61",
+		"and_chr": "* - 63",
+		"and_ff": "* - 56",
+		"ios_saf": "* - 10.2",
+		"samsung_mob": "* - 6.1",
+		"samsung": "* - 6.1"
 	},
 	"dependencies": [
 		

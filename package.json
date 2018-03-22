@@ -54,7 +54,7 @@
     "node": "6.11.1 - 8"
   },
   "dependencies": {
-    "Base64": "^1.0.0",
+    "Base64": "^1.0.1",
     "array.of": "^0.1.1",
     "audio-context-polyfill": "^1.0.0",
     "babel-core": "^6.26.0",
