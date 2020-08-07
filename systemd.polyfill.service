@@ -1,9 +1,8 @@
 [Unit]
 Description=Polyfill Server
-#Requires=After=mysql.service
 
 [Service]
-ExecStart=/usr/local/bin/node /usr/local/var/lib/polyfill-service/bin/polyfill-service
+ExecStart=/var/www/ployfill-service/start_server.sh server/index.js
 # Required on some systems
 WorkingDirectory=/usr/local/var/lib/polyfill-service/
 Restart=always

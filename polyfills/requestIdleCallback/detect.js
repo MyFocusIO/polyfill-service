@@ -1,1 +1,0 @@
-'requestIdleCallback' in this
